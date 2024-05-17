@@ -28,7 +28,7 @@
     alt="Google"
     align="center"
     width="100%"
-    src="https://github.com/BrunoSerpa/bertoti/assets/79608249/7fb6b528-832d-4a2f-bb88-ed0d6682a142"
+    src="https://github.com/BrunoSerpa/bertoti/assets/79608249/c1bc1ca6-e1b6-4f30-a179-abf33ad3bc82"
   />
 </details>
 <details>

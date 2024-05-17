@@ -6,6 +6,30 @@
 2. **Correspondência entre o Sistema e o Mundo Real**
 3. **Controle e Liberdade do Usuário**
 4. **Consistência e Padrões**
+
+<details>
+  <summary>
+    Correto: O site <a href="https://https://research.google.com">Google</a> apresenta consistencia no idioma, onde após mudá-lo, ele muda em todo o site.
+  </summary>
+  <img
+    alt="Google"
+    align="center"
+    width="100%"
+    src="https://github.com/BrunoSerpa/bertoti/assets/79608249/7fb6b528-832d-4a2f-bb88-ed0d6682a142"
+  />
+</details>
+<details>
+  <summary>
+    Errado: O site <a href="https://www.duolingo.com">Duolingo</a> não apresenta uma consistencia no idioma, onde há a opçãos de mudá-lo, mas não muda completamente.
+  </summary>
+  <img
+    alt="Duolingo"
+    align="center"
+    width="100%"
+    src="https://github.com/BrunoSerpa/bertoti/assets/79608249/7fb6b528-832d-4a2f-bb88-ed0d6682a142"
+  />
+</details>
+
 5. **Prevenção de Erros**
 6. **Reconhecimento em Vez de Lembrança**
 7. **Flexibilidade e Eficiência de Uso**
@@ -61,4 +85,41 @@
 </details>
 
 9. **Ajude os Usuários a Reconhecer, Diagnosticar e se Recuperar de Erros**
+
+<details>
+  <summary>
+    Correto: O site <a href="https://www.canva.com">Canva</a> apresenta o erro ao usuário de maneira simples e de facil entendimento.
+  </summary>
+  <img
+    alt="Canva"
+    align="center"
+    width="100%"
+    src="https://github.com/BrunoSerpa/bertoti/assets/79608249/6f353717-4d0c-4290-8430-b72f6e05fd45"
+  />
+</details>
+
+<details>
+  <summary>
+    Correto: O site <a href="https://pinterest.com">Pinterest</a> apresenta as informações que faltam do usuário de maneira simples e de facil entendimento.
+  </summary>
+  <img
+    alt="Pinterest"
+    align="center"
+    width="100%"
+    src="https://github.com/BrunoSerpa/bertoti/assets/79608249/5f18409d-b41f-407e-95da-53950a566a70"
+  />
+</details>
+
 10. **Ajuda e Documentação**
+
+<details>
+  <summary>
+    Correto: O site <a href="https://www.duolingo.com">Duolingo</a> demonstra o usuário detalhadamente seus objetivos e funcionalidades.
+  </summary>
+  <img
+    alt="Duolingo"
+    align="center"
+    width="100%"
+    src="https://github.com/BrunoSerpa/bertoti/assets/79608249/d3044fc4-c859-4b28-b45b-1d29110793e5"
+  />
+</details>

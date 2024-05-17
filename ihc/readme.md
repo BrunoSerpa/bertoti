@@ -4,6 +4,19 @@
 
 1. **Visibilidade do Status do Sistema**
 2. **Correspondência entre o Sistema e o Mundo Real**
+
+<details>
+  <summary>
+    Errado: O site <a href="https://teams.microsoft.com">Microsoft Teams</a> apresenta uma funcionalidade de copiar link onde, caso tenha um link na mensagens, faz com que o usuário pense que estará copiando este link:
+  </summary>
+  <img
+    alt="Microsoft Teams"
+    align="center"
+    width="100%"
+    src="https://github.com/BrunoSerpa/bertoti/assets/79608249/f70f3dda-4c9b-40dc-a20c-fdca68fb2e01"
+  />
+</details>
+
 3. **Controle e Liberdade do Usuário**
 4. **Consistência e Padrões**
 
